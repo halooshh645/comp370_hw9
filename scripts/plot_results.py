@@ -38,6 +38,10 @@ def calculate_percent(dictionary, total):
 mcgill_percent = calculate_percent(mcgill, mcgill_total)
 concordia_percent = calculate_percent(concordia, concordia_total)
 
+print("Categories:", CATEGORIES)
+print("McGill percentages:", mcgill_percent)
+print("Concordia percentages:", concordia_percent)
+
 # Plotting the results
 x = range(len(CATEGORIES))
 width = 0.35
