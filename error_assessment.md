@@ -40,3 +40,13 @@ Where is there complete disagreements?
 
 
 Overall, the disagreements seem to result mainly from tricky cases, different interpretations of posts, and occasional human errors. To reduce disagreements, I would clarify the boundaries between AAC and APP, particularly for tutoring requests and questions about preparing for university, and provide more examples of ambiguous cases.
+
+
+TASK 8:
+1. What differences do you observe? Among the recent Reddit posts sampled, Academic Assessments & Coursework (AAC) was more common in r/concordia (60%) than r/mcgill (40%). In contrast, Academic Planning & Programs (APP) was slightly more common in r/mcgill (25%) than r/concordia (20%). Safety & Well-being (SWB) posts were also more common in r/mcgill (15%), while no posts in the Concordia sample belonged to this category.
+
+2. How do they compare with your /new samples showed in homework 8? Safety & Well-being (SWB) follows the same pattern as Homework 8, while AAC and APP show the opposite pattern. Politics and Social Issues (PSI) appeared in both universities' HW8 /new samples (4% McGill, 24% Concordia), but neither HW9 sample contained any PSI posts.
+
+3. I would be cautious about trusting these differences. First, the sample only includes posts from the /new listing, so it may not be representative of all posts on each subreddit. Second, the sample size is relatively small, with only 20 posts per subreddit compared with 25 in Homework 8. This means that a few posts could substantially change the percentages. The fact that some patterns, particularly AAC and APP, reversed between Homework 8 and Homework 9 also suggests that the results may depend on which posts were sampled. Also, With only 20 posts, each individual post represents 5% of the sample, making the percentages particularly sensitive to small changes.  
+
+
