@@ -17,7 +17,7 @@ def count_categories(filename):
     return counts
 
 mcgill = count_categories("../data/final_labeled_dataset_mcgill.tsv")
-concordia = count_categories("../data/final_labeled_dataset_mcgill.tsv")
+concordia = count_categories("../data/final_labeled_dataset_concordia.tsv")
 
 # Calculating total number of posts in each:
 mcgill_total = sum(mcgill.values())
