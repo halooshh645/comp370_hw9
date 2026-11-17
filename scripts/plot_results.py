@@ -1,7 +1,7 @@
 import csv
 import matplotlib.pyplot as plt # allows us to create graphs
 
-CATEGORIES = ["AAC", "APP", "CSF", "HT", "CESB", "PSI", "SWB", "SLA"]
+CATEGORIES = ["AAC", "APP", "CFS", "HT", "CESB", "PSI", "SWB", "SLA"]
 def count_categories(filename):
     """
     Takes a filename and counts how many posts belong to each category
