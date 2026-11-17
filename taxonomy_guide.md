@@ -28,7 +28,7 @@ This taxonomy was developed to classify the main topics discussed by students on
 - **What's in (examples)**: 
 * Posts asking for advice about which courses to take or which academic program to choose.
 * Questions about course registration, degree requirements, or transferring programs.
-
+* looking for tutoring services (even if specififc course is mentionned)
 - **Edge cases**:
 * Posts asking whether a course is worth taking belong to APP, even if they mention its difficulty. However, posts primarily discussing difficulties with coursework belong to AAC.
 * Posts discussing internships as part of academic or career planning belong to APP, whereas posts focused on extracurricular student activities belong to SLA.
@@ -73,6 +73,7 @@ This taxonomy was developed to classify the main topics discussed by students on
 * Complaints about students talking loudly in quiet study areas.
 * Posts criticizing students for leaving shared spaces dirty.
 * Discussions about inappropriate or inconsiderate behaviour on campus.
+* dancing or making tiktoks or social media posts in library
 
 - **Edge cases**:
 * A complaint about students making excessive noise in a library belongs to CESB, whereas a complaint about inadequate soundproofing belongs to CFS.
