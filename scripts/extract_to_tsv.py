@@ -30,6 +30,8 @@ excluded_names = set()
 for filename in args.exclude:
     with open(filename, "r") as f:
         reader = csv.DictReader(f, delimiter='\t')
+        
+        reader.fieldnames = [name.strip() for name in reader.fieldnames] # removes extra spaces from header
 
         for row in reader:
             excluded_names.add(row["Name"])
@@ -41,7 +43,7 @@ for post in posts:
         filtered_posts.append(post)
 
 
-num_excluded = posts_before - len(filtered_posts)
+num_excluded = posts_before_num - len(filtered_posts)
 
 print(f"Excluded {num_excluded} posts")
 
